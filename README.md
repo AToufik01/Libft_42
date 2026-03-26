@@ -33,7 +33,7 @@ make re     # fclean + make
 To use the library in your project:
 
 ```bash
-gcc main.c -L. -lft -o my_program
+gcc main.c libft.a -o my_program (name a.out)
 ```
 
 ---
