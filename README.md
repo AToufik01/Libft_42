@@ -6,7 +6,7 @@
 
 ## 📖 About
 
-**Libft** is the first project at 42. The goal is to re-implement a set of standard C library functions from scratch, and add some extra utility functions that will be useful throughout the cursus.
+**Libft** is the first project at 1337(42network). The goal is to re-implement a set of standard C library functions from scratch, and add some extra utility functions that will be useful throughout the cursus.
 
 ---
 
