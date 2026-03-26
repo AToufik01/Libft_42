@@ -1,6 +1,6 @@
 # 📚 Libft
 
-> My own C library — a 42 school project.
+> My custom C library — a core project from 1337 School.
 
 ---
 
@@ -116,4 +116,4 @@ ataoufik@student.1337.ma
 
 ---
 
-*42 School — libft project*
+*1337 School (42 NETWORK)— libft project*
